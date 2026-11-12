@@ -19,6 +19,6 @@ A college-planning platform for families (Next.js, TypeScript, PostgreSQL), run 
 ## Background
 
 - NASA Jet Propulsion Laboratory, Technical Group Supervisor (2013 – 2025): architecture review boards for multi-mission ground software and Deep Space Network upgrades
-- M.S. Computer Science, Interactive Intelligence (now Artificial Intelligence), Georgia Tech · MBA, UC Irvine · B.S. Biochemistry, UC Riverside
+- M.S. Computer Science, Interactive Intelligence (now Artificial Intelligence), Georgia Tech · MBA, Information Technology, UC Irvine · B.S. Biochemistry, UC Riverside
 
 [LinkedIn](https://www.linkedin.com/in/omkar-nalamwar/) · [calculatedpath.com](https://calculatedpath.com)
